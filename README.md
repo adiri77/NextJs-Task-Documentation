@@ -151,4 +151,3 @@ This project demonstrates a simple counter application built with Next.js, Redux
 
 ```
 
-This documentation is designed to be informative and engaging, making it suitable for presentation to your manager.
